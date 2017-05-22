@@ -1,0 +1,11 @@
+{
+  "name": "custom-gizmo",
+  "version": "0.0.1",
+  "description": "The package template for getting started.",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "gizmos": {
+    "CustomGizmo": "packages://custom-gizmo/custom-gizmo.js",
+    "CustomGizmo2": "packages://custom-gizmo/custom-gizmo-2.js"
+  }
+}
